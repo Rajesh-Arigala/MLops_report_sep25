@@ -4,8 +4,8 @@ city: New York
 is_student: True
 grade:
   - subject: Math
-    grade: B
+    grade: C
   - subject: English
-    grade: B
+    grade: C
   - subject: Science
-    grade: B+
+    grade: C+
